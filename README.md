@@ -54,8 +54,6 @@ Ensures user passwords are stored in a way that is resistant to brute-force atta
 SQLite database access is synchronized to prevent conflicts during concurrent transactions.
 ## Retry Logic for Database Access
 Automatic retry for database interactions during high load or contention, ensuring stability.
-
-### Usage
 ## User Authentication
 Secure login and signup with password hashing and validation.
 ## Account Operations
