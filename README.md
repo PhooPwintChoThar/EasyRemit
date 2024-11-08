@@ -4,7 +4,7 @@ GitHub Link: https://github.com/PhooPwintChoThar/Easy-Remit
 Easy-Remit is a Rust-based application featuring a multi-page GUI built with the Iced framework. It provides secure user management, account operations, and transaction processing, with SQLite for persistent data storage. The project employs AES encryption, hashing, and retry mechanisms, making it ideal for system-level applications where data security and performance are essential.
 
 ## Team
-1. Phoo Pwint Cho Thar<67011755@kmitl.ac.th>
+1. Phoo Pwint Cho Thar <67011755@kmitl.ac.th>
 2. Thiri Thaw <67011731@kmitl.ac.th>
 
 ## Contribution
