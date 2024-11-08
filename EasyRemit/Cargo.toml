@@ -1,0 +1,17 @@
+[package]
+name = "EasyRemit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced={version="0.4", features=["pure"]}
+argon2 = "0.4"
+rand = "0.8" 
+aes = "0.7"                # For AES encryption
+block-modes = "0.8"        # For block modes like CBC
+generic-array = "0.14"     # For handling generic arrays used in AES
+regex = "1.9"              # For regular expressions
+rusqlite = "0.29"          # For SQLite database interactions
+once_cell="1.16"
+base64="0.21"
+rodio="0.17"
